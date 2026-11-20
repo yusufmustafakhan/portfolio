@@ -209,3 +209,7 @@ export default function ContactForm({ email }: Props) {
             Send it from your email app instead
           </button>
         </p>
+            )}
+    </form>
+  );
+}
