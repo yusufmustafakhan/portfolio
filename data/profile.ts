@@ -15,10 +15,7 @@ export const profile = {
   microsoftLearn: "https://learn.microsoft.com/en-us/users/yusufkhan-6567",
 
   // Assets
-  // Add your photo at public/images/profile/yusuf-profile.png, then set:
-  // image: "/images/profile/yusuf-profile.png",
-  // While this is empty, your initials are shown instead.
-  image: "",
+  image: "/images/profile/yusuf-profile.png",
   resume: "/resume/Yusuf_Mustafa_Khan_Resume.pdf",
 
   // Homepage
